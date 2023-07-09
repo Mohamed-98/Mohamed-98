@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-98" alt="mohamed-98" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring Framework**
+- 🌱 I’m currently learning **NestJS framework**
 
 - 📫 How to reach me **m.gado86@gmail.com**
 
