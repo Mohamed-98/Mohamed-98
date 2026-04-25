@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NestJS framework
+🔭 I’m currently working on NestJS
 
 
 ## 🌐 Socials:
